@@ -358,6 +358,8 @@ html {
     color: #fff;
     background-color: #000;
     padding: 8px;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .map img {
